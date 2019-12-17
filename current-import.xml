@@ -1,0 +1,52 @@
+<DocResults>
+   <ap_processor>AP8</ap_processor>
+   <company>EAP</company>
+   <company_number>00800</company_number>
+   <supplier_number>195439</supplier_number>
+   <supplier_name>PARKER INDUSTRIAL X-Ray Laboratory Corp.</supplier_name>
+   <po_number>70475</po_number>
+   <invoice_type>PO</invoice_type>
+   <invoice_number>147412</invoice_number>
+   <invoice_date>2019-01-10</invoice_date>
+   <invoice_amount>378.00</invoice_amount>
+   <distribution_amount>378.00</distribution_amount>
+   <currency>USD</currency>
+   <buyer_name>eapapinvoice@camaerospace.com</buyer_name>
+   <due_date>2019-01-10</due_date>
+   <ceapi_id>20191211.000151.01</ceapi_id>
+   <ocr_status>996</ocr_status>
+   <line_po_nbr>70475</line_po_nbr>
+   <adj_inv_itm>5327421-01SK01</adj_inv_itm>
+   <adj_inv_prc>303.00</adj_inv_prc>
+   <adj_inv_qty>5.00</adj_inv_qty>
+   <inv_item_nbr>5327421-01SK01</inv_item_nbr>
+   <inv_item_desc>TUBE ASSEMBLY</inv_item_desc>
+   <inv_quantity>5.00</inv_quantity>
+   <inv_unit_price>303.00</inv_unit_price>
+   <line_amount>303.00</line_amount>
+   <inv_match_qty>.00</inv_match_qty>
+   <ap_processor>AP8</ap_processor>
+   <company>EAP</company>
+   <company_number>00800</company_number>
+   <supplier_number>195439</supplier_number>
+   <supplier_name>PARKER INDUSTRIAL X-Ray Laboratory Corp.</supplier_name>
+   <po_number>70475</po_number>
+   <invoice_type>PO</invoice_type>
+   <invoice_number>147412</invoice_number>
+   <invoice_date>2019-01-10</invoice_date>
+   <invoice_amount>378.00</invoice_amount>
+   <distribution_amount>378.00</distribution_amount>
+   <currency>USD</currency>
+   <buyer_name>eapapinvoice@camaerospace.com</buyer_name>
+   <due_date>2019-01-10</due_date>
+   <ceapi_id>20191211.000151.01</ceapi_id>
+   <ocr_status>996</ocr_status>
+   <line_po_nbr>70475</line_po_nbr>
+   <adj_inv_prc>75.00</adj_inv_prc>
+   <adj_inv_qty>1.00</adj_inv_qty>
+   <inv_item_desc>TECHNIQUE CHARGE</inv_item_desc>
+   <inv_quantity>1.00</inv_quantity>
+   <inv_unit_price>75.00</inv_unit_price>
+   <line_amount>75.00</line_amount>
+   <inv_match_qty>.00</inv_match_qty>
+</DocResults>
