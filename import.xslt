@@ -1,13 +1,12 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="/" >
     <TestImport>
-      <xtxml.import>
-        <import_loadstatus>test</import_loadstatus>
-        <!-- <import_id>1</import_id> -->
-        <import_documentcode>
-          <xsl:value-of select="//DocumentCode" />
-        </import_documentcode>
-        <xsl:for-each select="//IndexSets/Index">
+      <xsl:for-each select="//IndexSets/Index">
+        <xtxml.import>
+          <import_loadstatus>test</import_loadstatus>
+          <import_documentcode>
+            <xsl:value-of select="//DocumentCode" />
+          </import_documentcode>
           <import_ap_processor>
               <xsl:value-of select="Field[1]/Value"/>
           </import_ap_processor>
@@ -86,8 +85,8 @@
           <import_inv_match_qty>
             <xsl:value-of select="Field[26]/Value"/>
           </import_inv_match_qty>
-        </xsl:for-each>
-      </xtxml.import>
+        </xtxml.import>
+      </xsl:for-each>
     </TestImport>
   </xsl:template>
 </xsl:stylesheet>
