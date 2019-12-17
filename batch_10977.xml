@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocResults>
+  <ResultHeader>
+    <DocumentCount>1</DocumentCount>
+  </ResultHeader>
+  <ResultDetail>
+    <Document>
+      <DPP>AP Invoice_WF (JE1)</DPP>
+      <DPPShortName>API_W</DPPShortName>
+      <DocumentCode>10977</DocumentCode>
+      <PageCount>1</PageCount>
+      <FolderInfo>
+        <FolderName>\\Cam-ic-apps1\ichiefprd\Export_to_XML\EAP</FolderName>
+        <FileName>10977.pdf</FileName>
+      </FolderInfo>
+      <IndexSets>
+        <Index>
+          <Field>
+            <Name>AP Processor</Name>
+            <Value>AP8</Value>
+          </Field>
+          <Field>
+            <Name>Company</Name>
+            <Value>EAP</Value>
+          </Field>
+          <Field>
+            <Name>Company Number</Name>
+            <Value>00800</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Number</Name>
+            <Value>195439</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Name</Name>
+            <Value>PARKER INDUSTRIAL X-Ray Laboratory Corp.</Value>
+          </Field>
+          <Field>
+            <Name>PO Number</Name>
+            <Value>70475</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Type</Name>
+            <Value>PO</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Number</Name>
+            <Value>147412</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Date</Name>
+            <Value>2019-01-10</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Amount</Name>
+            <Value>378.00</Value>
+          </Field>
+          <Field>
+            <Name>Distribution Amount</Name>
+            <Value>378.00</Value>
+          </Field>
+          <Field>
+            <Name>Currency</Name>
+            <Value>USD</Value>
+          </Field>
+          <Field>
+            <Name>Buyer Name</Name>
+            <Value>eapapinvoice@camaerospace.com</Value>
+          </Field>
+          <Field>
+            <Name>Due Date</Name>
+            <Value>2019-01-10</Value>
+          </Field>
+          <Field>
+            <Name>CEAPI ID</Name>
+            <Value>20191211.000151.01</Value>
+          </Field>
+          <Field>
+            <Name>OCR Status</Name>
+            <Value>996</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Nbr</Name>
+            <Value>70475</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Itm</Name>
+            <Value>5327421-01SK01</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Prc</Name>
+            <Value>303.00</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Qty</Name>
+            <Value>5.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Nbr</Name>
+            <Value>5327421-01SK01</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Desc</Name>
+            <Value>TUBE ASSEMBLY</Value>
+          </Field>
+          <Field>
+            <Name>Inv Quantity</Name>
+            <Value>5.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Unit Price</Name>
+            <Value>303.00</Value>
+          </Field>
+          <Field>
+            <Name>Line Amount</Name>
+            <Value>303.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Match Qty</Name>
+            <Value>.00</Value>
+          </Field>
+        </Index>
+        <Index>
+          <Field>
+            <Name>AP Processor</Name>
+            <Value>AP8</Value>
+          </Field>
+          <Field>
+            <Name>Company</Name>
+            <Value>EAP</Value>
+          </Field>
+          <Field>
+            <Name>Company Number</Name>
+            <Value>00800</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Number</Name>
+            <Value>195439</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Name</Name>
+            <Value>PARKER INDUSTRIAL X-Ray Laboratory Corp.</Value>
+          </Field>
+          <Field>
+            <Name>PO Number</Name>
+            <Value>70475</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Type</Name>
+            <Value>PO</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Number</Name>
+            <Value>147412</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Date</Name>
+            <Value>2019-01-10</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Amount</Name>
+            <Value>378.00</Value>
+          </Field>
+          <Field>
+            <Name>Distribution Amount</Name>
+            <Value>378.00</Value>
+          </Field>
+          <Field>
+            <Name>Currency</Name>
+            <Value>USD</Value>
+          </Field>
+          <Field>
+            <Name>Buyer Name</Name>
+            <Value>eapapinvoice@camaerospace.com</Value>
+          </Field>
+          <Field>
+            <Name>Due Date</Name>
+            <Value>2019-01-10</Value>
+          </Field>
+          <Field>
+            <Name>CEAPI ID</Name>
+            <Value>20191211.000151.01</Value>
+          </Field>
+          <Field>
+            <Name>OCR Status</Name>
+            <Value>996</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Nbr</Name>
+            <Value>70475</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Prc</Name>
+            <Value>75.00</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Qty</Name>
+            <Value>1.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Desc</Name>
+            <Value>TECHNIQUE CHARGE</Value>
+          </Field>
+          <Field>
+            <Name>Inv Quantity</Name>
+            <Value>1.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Unit Price</Name>
+            <Value>75.00</Value>
+          </Field>
+          <Field>
+            <Name>Line Amount</Name>
+            <Value>75.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Match Qty</Name>
+            <Value>.00</Value>
+          </Field>
+        </Index>
+      </IndexSets>
+    </Document>
+  </ResultDetail>
+</DocResults>
+

@@ -1,0 +1,34 @@
+<!DOCTYPE xtupleimport>
+<xtupleimport>
+ <xtxml.import>
+  <import_id>1</import_id>
+  <import_loadstatus>test</import_loadstatus>
+  <import_documentcode>1234</import_documentcode>
+  <import_ap_processor>test</import_ap_processor>
+  <import_company>[NULL]</import_company>
+  <import_company_number>[NULL]</import_company_number>
+  <import_supplier_number>[NULL]</import_supplier_number>
+  <import_supplier_name>[NULL]</import_supplier_name>
+  <import_po_number>[NULL]</import_po_number>
+  <import_invoice_type>[NULL]</import_invoice_type>
+  <import_invoice_number>[NULL]</import_invoice_number>
+  <import_invoice_date>[NULL]</import_invoice_date>
+  <import_invoice_amount>[NULL]</import_invoice_amount>
+  <import_distribution_amount>[NULL]</import_distribution_amount>
+  <import_currency>[NULL]</import_currency>
+  <import_buyer_name>[NULL]</import_buyer_name>
+  <import_due_date>[NULL]</import_due_date>
+  <import_ceapi_id>[NULL]</import_ceapi_id>
+  <import_ocr_status>[NULL]</import_ocr_status>
+  <import_line_po_nbr>[NULL]</import_line_po_nbr>
+  <import_adj_inv_itm>[NULL]</import_adj_inv_itm>
+  <import_adj_inv_prc>[NULL]</import_adj_inv_prc>
+  <import_adj_inv_qty>[NULL]</import_adj_inv_qty>
+  <import_inv_item_nbr>[NULL]</import_inv_item_nbr>
+  <import_inv_item_desc>[NULL]</import_inv_item_desc>
+  <import_inv_quantity>[NULL]</import_inv_quantity>
+  <import_inv_unit_price>[NULL]</import_inv_unit_price>
+  <import_line_amount>[NULL]</import_line_amount>
+  <import_inv_match_qty>[NULL]</import_inv_match_qty>
+ </xtxml.import>
+</xtupleimport>
