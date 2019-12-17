@@ -1,0 +1,62 @@
+<TestImport>
+   <xtxml.import>
+      <import_loadstatus>test</import_loadstatus>
+      <import_documentcode>10977</import_documentcode>
+      <import_ap_processor>AP8</import_ap_processor>
+      <import_company>EAP</import_company>
+      <import_company_number>00800</import_company_number>
+      <import_supplier_number>195439</import_supplier_number>
+      <import_supplier_name>PARKER INDUSTRIAL X-Ray Laboratory Corp.</import_supplier_name>
+      <import_po_number>70475</import_po_number>
+      <import_invoice_type>PO</import_invoice_type>
+      <import_invoice_number>147412</import_invoice_number>
+      <import_invoice_date>2019-01-10</import_invoice_date>
+      <import_invoice_amount>378.00</import_invoice_amount>
+      <import_distribution_amount>378.00</import_distribution_amount>
+      <import_currency>USD</import_currency>
+      <import_buyer_name>eapapinvoice@camaerospace.com</import_buyer_name>
+      <import_due_date>2019-01-10</import_due_date>
+      <import_ceapi_id>20191211.000151.01</import_ceapi_id>
+      <import_ocr_status>996</import_ocr_status>
+      <import_line_po_nbr>70475</import_line_po_nbr>
+      <import_adj_inv_itm>5327421-01SK01</import_adj_inv_itm>
+      <import_adj_inv_prc>303.00</import_adj_inv_prc>
+      <import_adj_inv_qty>5.00</import_adj_inv_qty>
+      <import_inv_item_nbr>5327421-01SK01</import_inv_item_nbr>
+      <import_inv_item_desc>TUBE ASSEMBLY</import_inv_item_desc>
+      <import_inv_quantity>5.00</import_inv_quantity>
+      <import_inv_unit_price>303.00</import_inv_unit_price>
+      <import_line_amount>303.00</import_line_amount>
+      <import_inv_match_qty>.00</import_inv_match_qty>
+   </xtxml.import>
+   <xtxml.import>
+      <import_loadstatus>test</import_loadstatus>
+      <import_documentcode>10977</import_documentcode>
+      <import_ap_processor>AP8</import_ap_processor>
+      <import_company>EAP</import_company>
+      <import_company_number>00800</import_company_number>
+      <import_supplier_number>195439</import_supplier_number>
+      <import_supplier_name>PARKER INDUSTRIAL X-Ray Laboratory Corp.</import_supplier_name>
+      <import_po_number>70475</import_po_number>
+      <import_invoice_type>PO</import_invoice_type>
+      <import_invoice_number>147412</import_invoice_number>
+      <import_invoice_date>2019-01-10</import_invoice_date>
+      <import_invoice_amount>378.00</import_invoice_amount>
+      <import_distribution_amount>378.00</import_distribution_amount>
+      <import_currency>USD</import_currency>
+      <import_buyer_name>eapapinvoice@camaerospace.com</import_buyer_name>
+      <import_due_date>2019-01-10</import_due_date>
+      <import_ceapi_id>20191211.000151.01</import_ceapi_id>
+      <import_ocr_status>996</import_ocr_status>
+      <import_line_po_nbr>70475</import_line_po_nbr>
+      <import_adj_inv_itm>75.00</import_adj_inv_itm>
+      <import_adj_inv_prc>1.00</import_adj_inv_prc>
+      <import_adj_inv_qty>TECHNIQUE CHARGE</import_adj_inv_qty>
+      <import_inv_item_nbr>1.00</import_inv_item_nbr>
+      <import_inv_item_desc>75.00</import_inv_item_desc>
+      <import_inv_quantity>75.00</import_inv_quantity>
+      <import_inv_unit_price>.00</import_inv_unit_price>
+      <import_line_amount/>
+      <import_inv_match_qty/>
+   </xtxml.import>
+</TestImport>
