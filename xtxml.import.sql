@@ -1,7 +1,7 @@
 -- GRANT ALL ON SCHEMA xtxml TO admin;
 -- GRANT ALL ON SCHEMA xtxml TO xtrole;
 
--- DROP TABLE xtxml.import;
+DROP TABLE xtxml.import;
 CREATE TABLE xtxml.import (
 	import_id serial not null,
 	import_loadstatus TEXT DEFAULT 'new',
@@ -31,7 +31,10 @@ CREATE TABLE xtxml.import (
 	import_inv_quantity NUMERIC,
 	import_inv_unit_price NUMERIC,
 	import_line_amount NUMERIC,
-	import_inv_match_qty NUMERIC
+	import_inv_match_qty NUMERIC,
+	import_pay_to_entity TEXT,
+	import_po_type TEXT,
+	import_po_suffix TEXT
 );
 
 ALTER TABLE xtxml.import OWNER TO admin;
@@ -41,5 +44,5 @@ GRANT ALL ON TABLE xtxml.import TO xtrole;
 ALTER TABLE xtxml.import
   ADD CONSTRAINT import_pkey PRIMARY KEY(import_id);
 
-GRANT USAGE, SELECT ON SEQUENCE import_impoert_id_seq TO public;
+GRANT USAGE, SELECT ON SEQUENCE xtxml.import_import_id_seq TO public;
 
