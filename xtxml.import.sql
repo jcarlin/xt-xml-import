@@ -41,5 +41,5 @@ GRANT ALL ON TABLE xtxml.import TO xtrole;
 ALTER TABLE xtxml.import
   ADD CONSTRAINT import_pkey PRIMARY KEY(import_id);
 
-GRANT USAGE, SELECT ON SEQUENCE import_impoert_id_seq TO public;
+GRANT USAGE, SELECT ON SEQUENCE xtxml.import_import_id_seq TO public;
 
