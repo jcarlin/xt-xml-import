@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocResults>
+  <ResultHeader>
+    <DocumentCount>1</DocumentCount>
+  </ResultHeader>
+  <ResultDetail>
+    <Document>
+      <DPP>AP Invoice_WF (JE1)</DPP>
+      <DPPShortName>API_W</DPPShortName>
+      <DocumentCode>6309</DocumentCode>
+      <PageCount>2</PageCount>
+      <IndexSets>
+        <Index>
+          <Field>
+            <Name>AP Processor</Name>
+            <Value>AP2</Value>
+          </Field>
+          <Field>
+            <Name>Company</Name>
+            <Value>BRI</Value>
+          </Field>
+          <Field>
+            <Name>Company Number</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Number</Name>
+            <Value>179073</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Name</Name>
+            <Value>MSC INDUSTRIAL SUPPLY CO</Value>
+          </Field>
+          <Field>
+            <Name>Pay to Entity</Name>
+            <Value>176910</Value>
+          </Field>
+          <Field>
+            <Name>PO Number</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>PO Type</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>PO Suffix</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Type</Name>
+            <Value>PO</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Number</Name>
+            <Value>C68059901</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Date</Name>
+            <Value>2019-10-29</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Distribution Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Currency</Name>
+            <Value>USD</Value>
+          </Field>
+          <Field>
+            <Name>Terms Code</Name>
+            <Value>N45</Value>
+          </Field>
+          <Field>
+            <Name>Buyer Name</Name>
+            <Value>APInvoice@bristolind.com</Value>
+          </Field>
+          <Field>
+            <Name>Business Unit</Name>
+            <Value>730000</Value>
+          </Field>
+          <Field>
+            <Name>Due Date</Name>
+            <Value>2019-12-13</Value>
+          </Field>
+          <Field>
+            <Name>CEAPI ID</Name>
+            <Value>20191031.000009.04</Value>
+          </Field>
+          <Field>
+            <Name>OCR Status</Name>
+            <Value>101</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Co</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Nbr</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Typ</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Sfx</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Itm</Name>
+            <Value>6785661450</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Prc</Name>
+            <Value>2.20</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Qty</Name>
+            <Value>150</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Nbr</Name>
+            <Value>60268307</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Desc</Name>
+            <Value>RED/WHT/BLU W/CLR LENS CR</Value>
+          </Field>
+          <Field>
+            <Name>Inv Quantity</Name>
+            <Value>150.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Unit Price</Name>
+            <Value>2.93</Value>
+          </Field>
+          <Field>
+            <Name>Line Amount</Name>
+            <Value>330.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Match Qty</Name>
+            <Value>150.00</Value>
+          </Field>
+          <Field>
+            <Name>GL Account</Name>
+            <Value>7300.2121</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Date</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Nbr</Name>
+            <Value>3010306</Value>
+          </Field>
+          <Field>
+            <Name>POCompany</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>PONumber</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>POType</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>POSuffixRevision</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>POLineNbrItemSeq</Name>
+            <Value>1.000</Value>
+          </Field>
+          <Field>
+            <Name>POItemProduct</Name>
+            <Value>6785661450</Value>
+          </Field>
+          <Field>
+            <Name>POItemDesc</Name>
+            <Value>SAFETY GLASSES</Value>
+          </Field>
+          <Field>
+            <Name>POLineType</Name>
+            <Value>S</Value>
+          </Field>
+          <Field>
+            <Name>POUoM</Name>
+            <Value>EA</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOrdered</Name>
+            <Value>150</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOpen</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POUnitPrice</Name>
+            <Value>2.20</Value>
+          </Field>
+          <Field>
+            <Name>POPurchUoM</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POPurchUnitPrice</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPReceiptNumber</Name>
+            <Value>3010306</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptDate</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptTime</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyReceived</Name>
+            <Value>150</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyUsed</Name>
+            <Value>150</Value>
+          </Field>
+          <Field>
+            <Name>POMatchType</Name>
+            <Value>3</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceType</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POVariancePercent</Name>
+            <Value>10.00</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceAmount</Name>
+            <Value>100.00</Value>
+          </Field>
+          <Field>
+            <Name>POWarehouse</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POUoMConversion</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPNbrLinesSeq</Name>
+            <Value>1</Value>
+          </Field>
+          <Field>
+            <Name>POExtendedAmount</Name>
+            <Value>330.00</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value />
+          </Field>
+        </Index>
+        <Index>
+          <Field>
+            <Name>AP Processor</Name>
+            <Value>AP2</Value>
+          </Field>
+          <Field>
+            <Name>Company</Name>
+            <Value>BRI</Value>
+          </Field>
+          <Field>
+            <Name>Company Number</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Number</Name>
+            <Value>179073</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Name</Name>
+            <Value>MSC INDUSTRIAL SUPPLY CO</Value>
+          </Field>
+          <Field>
+            <Name>Pay to Entity</Name>
+            <Value>176910</Value>
+          </Field>
+          <Field>
+            <Name>PO Number</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>PO Type</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>PO Suffix</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Type</Name>
+            <Value>PO</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Number</Name>
+            <Value>C68059901</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Date</Name>
+            <Value>2019-10-29</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Distribution Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Currency</Name>
+            <Value>USD</Value>
+          </Field>
+          <Field>
+            <Name>Terms Code</Name>
+            <Value>N45</Value>
+          </Field>
+          <Field>
+            <Name>Buyer Name</Name>
+            <Value>APInvoice@bristolind.com</Value>
+          </Field>
+          <Field>
+            <Name>Business Unit</Name>
+            <Value>730000</Value>
+          </Field>
+          <Field>
+            <Name>Due Date</Name>
+            <Value>2019-12-13</Value>
+          </Field>
+          <Field>
+            <Name>CEAPI ID</Name>
+            <Value>20191031.000009.04</Value>
+          </Field>
+          <Field>
+            <Name>OCR Status</Name>
+            <Value>101</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Co</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Nbr</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Typ</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Sfx</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Itm</Name>
+            <Value>6785661944</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Prc</Name>
+            <Value>13.72</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Qty</Name>
+            <Value>12</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Nbr</Name>
+            <Value>77440634</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Desc</Name>
+            <Value>8" BELT BLACK MED PROSAFE</Value>
+          </Field>
+          <Field>
+            <Name>Inv Quantity</Name>
+            <Value>12.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Unit Price</Name>
+            <Value>18.27</Value>
+          </Field>
+          <Field>
+            <Name>Line Amount</Name>
+            <Value>164.64</Value>
+          </Field>
+          <Field>
+            <Name>Inv Match Qty</Name>
+            <Value>12.00</Value>
+          </Field>
+          <Field>
+            <Name>GL Account</Name>
+            <Value>7300.2121</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Date</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Nbr</Name>
+            <Value>3010306</Value>
+          </Field>
+          <Field>
+            <Name>POCompany</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>PONumber</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>POType</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>POSuffixRevision</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>POLineNbrItemSeq</Name>
+            <Value>2.000</Value>
+          </Field>
+          <Field>
+            <Name>POItemProduct</Name>
+            <Value>6785661944</Value>
+          </Field>
+          <Field>
+            <Name>POItemDesc</Name>
+            <Value>BACK SUPPORT, MEDIUM</Value>
+          </Field>
+          <Field>
+            <Name>POLineType</Name>
+            <Value>S</Value>
+          </Field>
+          <Field>
+            <Name>POUoM</Name>
+            <Value>EA</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOrdered</Name>
+            <Value>12</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOpen</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POUnitPrice</Name>
+            <Value>13.72</Value>
+          </Field>
+          <Field>
+            <Name>POPurchUoM</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POPurchUnitPrice</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPReceiptNumber</Name>
+            <Value>3010306</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptDate</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptTime</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyReceived</Name>
+            <Value>12</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyUsed</Name>
+            <Value>12</Value>
+          </Field>
+          <Field>
+            <Name>POMatchType</Name>
+            <Value>3</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceType</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POVariancePercent</Name>
+            <Value>10.00</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceAmount</Name>
+            <Value>100.00</Value>
+          </Field>
+          <Field>
+            <Name>POWarehouse</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POUoMConversion</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPNbrLinesSeq</Name>
+            <Value>1</Value>
+          </Field>
+          <Field>
+            <Name>POExtendedAmount</Name>
+            <Value>164.64</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value />
+          </Field>
+        </Index>
+        <Index>
+          <Field>
+            <Name>AP Processor</Name>
+            <Value>AP2</Value>
+          </Field>
+          <Field>
+            <Name>Company</Name>
+            <Value>BRI</Value>
+          </Field>
+          <Field>
+            <Name>Company Number</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Number</Name>
+            <Value>179073</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Name</Name>
+            <Value>MSC INDUSTRIAL SUPPLY CO</Value>
+          </Field>
+          <Field>
+            <Name>Pay to Entity</Name>
+            <Value>176910</Value>
+          </Field>
+          <Field>
+            <Name>PO Number</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>PO Type</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>PO Suffix</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Type</Name>
+            <Value>PO</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Number</Name>
+            <Value>C68059901</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Date</Name>
+            <Value>2019-10-29</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Distribution Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Currency</Name>
+            <Value>USD</Value>
+          </Field>
+          <Field>
+            <Name>Terms Code</Name>
+            <Value>N45</Value>
+          </Field>
+          <Field>
+            <Name>Buyer Name</Name>
+            <Value>APInvoice@bristolind.com</Value>
+          </Field>
+          <Field>
+            <Name>Business Unit</Name>
+            <Value>730000</Value>
+          </Field>
+          <Field>
+            <Name>Due Date</Name>
+            <Value>2019-12-13</Value>
+          </Field>
+          <Field>
+            <Name>CEAPI ID</Name>
+            <Value>20191031.000009.04</Value>
+          </Field>
+          <Field>
+            <Name>OCR Status</Name>
+            <Value>101</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Co</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Nbr</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Typ</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Sfx</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Itm</Name>
+            <Value>6785660721</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Prc</Name>
+            <Value>4.95</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Qty</Name>
+            <Value>80</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Nbr</Name>
+            <Value>86897972</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Desc</Name>
+            <Value>RBBR GAUNT CUFF SML PR SP</Value>
+          </Field>
+          <Field>
+            <Name>Inv Quantity</Name>
+            <Value>80.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Unit Price</Name>
+            <Value>4.95</Value>
+          </Field>
+          <Field>
+            <Name>Line Amount</Name>
+            <Value>396.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Match Qty</Name>
+            <Value>80.00</Value>
+          </Field>
+          <Field>
+            <Name>GL Account</Name>
+            <Value>7300.2121</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Date</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Nbr</Name>
+            <Value>3010306</Value>
+          </Field>
+          <Field>
+            <Name>POCompany</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>PONumber</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>POType</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>POSuffixRevision</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>POLineNbrItemSeq</Name>
+            <Value>3.000</Value>
+          </Field>
+          <Field>
+            <Name>POItemProduct</Name>
+            <Value>6785660721</Value>
+          </Field>
+          <Field>
+            <Name>POItemDesc</Name>
+            <Value>GLOVES, LEATHER PALM</Value>
+          </Field>
+          <Field>
+            <Name>POLineType</Name>
+            <Value>S</Value>
+          </Field>
+          <Field>
+            <Name>POUoM</Name>
+            <Value>PR</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOrdered</Name>
+            <Value>80</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOpen</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POUnitPrice</Name>
+            <Value>4.95</Value>
+          </Field>
+          <Field>
+            <Name>POPurchUoM</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POPurchUnitPrice</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPReceiptNumber</Name>
+            <Value>3010306</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptDate</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptTime</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyReceived</Name>
+            <Value>80</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyUsed</Name>
+            <Value>80</Value>
+          </Field>
+          <Field>
+            <Name>POMatchType</Name>
+            <Value>3</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceType</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POVariancePercent</Name>
+            <Value>10.00</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceAmount</Name>
+            <Value>100.00</Value>
+          </Field>
+          <Field>
+            <Name>POWarehouse</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POUoMConversion</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPNbrLinesSeq</Name>
+            <Value>1</Value>
+          </Field>
+          <Field>
+            <Name>POExtendedAmount</Name>
+            <Value>396.00</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value />
+          </Field>
+        </Index>
+        <Index>
+          <Field>
+            <Name>AP Processor</Name>
+            <Value>AP2</Value>
+          </Field>
+          <Field>
+            <Name>Company</Name>
+            <Value>BRI</Value>
+          </Field>
+          <Field>
+            <Name>Company Number</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Number</Name>
+            <Value>179073</Value>
+          </Field>
+          <Field>
+            <Name>Supplier Name</Name>
+            <Value>MSC INDUSTRIAL SUPPLY CO</Value>
+          </Field>
+          <Field>
+            <Name>Pay to Entity</Name>
+            <Value>176910</Value>
+          </Field>
+          <Field>
+            <Name>PO Number</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>PO Type</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>PO Suffix</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Type</Name>
+            <Value>PO</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Number</Name>
+            <Value>C68059901</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Date</Name>
+            <Value>2019-10-29</Value>
+          </Field>
+          <Field>
+            <Name>Invoice Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Distribution Amount</Name>
+            <Value>1001.16</Value>
+          </Field>
+          <Field>
+            <Name>Currency</Name>
+            <Value>USD</Value>
+          </Field>
+          <Field>
+            <Name>Terms Code</Name>
+            <Value>N45</Value>
+          </Field>
+          <Field>
+            <Name>Buyer Name</Name>
+            <Value>APInvoice@bristolind.com</Value>
+          </Field>
+          <Field>
+            <Name>Business Unit</Name>
+            <Value>730000</Value>
+          </Field>
+          <Field>
+            <Name>Due Date</Name>
+            <Value>2019-12-13</Value>
+          </Field>
+          <Field>
+            <Name>CEAPI ID</Name>
+            <Value>20191031.000009.04</Value>
+          </Field>
+          <Field>
+            <Name>OCR Status</Name>
+            <Value>101</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Co</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Nbr</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Typ</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>Line PO Sfx</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Itm</Name>
+            <Value>6785660572</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Prc</Name>
+            <Value>3.07</Value>
+          </Field>
+          <Field>
+            <Name>Adj Inv Qty</Name>
+            <Value>36</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Nbr</Name>
+            <Value>54446786</Value>
+          </Field>
+          <Field>
+            <Name>Inv Item Desc</Name>
+            <Value>SBS40 100ML CREAM TUBE ME</Value>
+          </Field>
+          <Field>
+            <Name>Inv Quantity</Name>
+            <Value>36.00</Value>
+          </Field>
+          <Field>
+            <Name>Inv Unit Price</Name>
+            <Value>4.09</Value>
+          </Field>
+          <Field>
+            <Name>Line Amount</Name>
+            <Value>110.52</Value>
+          </Field>
+          <Field>
+            <Name>Inv Match Qty</Name>
+            <Value>36.00</Value>
+          </Field>
+          <Field>
+            <Name>GL Account</Name>
+            <Value>7300.2121</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Date</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>Receipt Nbr</Name>
+            <Value>3010439</Value>
+          </Field>
+          <Field>
+            <Name>POCompany</Name>
+            <Value>00730</Value>
+          </Field>
+          <Field>
+            <Name>PONumber</Name>
+            <Value>1108089</Value>
+          </Field>
+          <Field>
+            <Name>POType</Name>
+            <Value>OP</Value>
+          </Field>
+          <Field>
+            <Name>POSuffixRevision</Name>
+            <Value>000</Value>
+          </Field>
+          <Field>
+            <Name>POLineNbrItemSeq</Name>
+            <Value>4.000</Value>
+          </Field>
+          <Field>
+            <Name>POItemProduct</Name>
+            <Value>6785660572</Value>
+          </Field>
+          <Field>
+            <Name>POItemDesc</Name>
+            <Value>FIRST AID; CREAM, HAND, SBS 40</Value>
+          </Field>
+          <Field>
+            <Name>POLineType</Name>
+            <Value>S</Value>
+          </Field>
+          <Field>
+            <Name>POUoM</Name>
+            <Value>EA</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOrdered</Name>
+            <Value>36</Value>
+          </Field>
+          <Field>
+            <Name>POQtyOpen</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POUnitPrice</Name>
+            <Value>3.07</Value>
+          </Field>
+          <Field>
+            <Name>POPurchUoM</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POPurchUnitPrice</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPReceiptNumber</Name>
+            <Value>3010439</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptDate</Name>
+            <Value>2019-10-31</Value>
+          </Field>
+          <Field>
+            <Name>RCPReceiptTime</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyReceived</Name>
+            <Value>36</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>RCPQtyUsed</Name>
+            <Value>36</Value>
+          </Field>
+          <Field>
+            <Name>POMatchType</Name>
+            <Value>3</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value>0</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceType</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POVariancePercent</Name>
+            <Value>10.00</Value>
+          </Field>
+          <Field>
+            <Name>POVarianceAmount</Name>
+            <Value>100.00</Value>
+          </Field>
+          <Field>
+            <Name>POWarehouse</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>POUoMConversion</Name>
+            <Value />
+          </Field>
+          <Field>
+            <Name>RCPNbrLinesSeq</Name>
+            <Value>1</Value>
+          </Field>
+          <Field>
+            <Name>POExtendedAmount</Name>
+            <Value>110.52</Value>
+          </Field>
+          <Field>
+            <Name>RCPNotAvailable</Name>
+            <Value />
+          </Field>
+        </Index>
+      </IndexSets>
+    </Document>
+  </ResultDetail>
+</DocResults>
+
