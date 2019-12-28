@@ -1,7 +1,7 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   
   <xsl:template match="/" >
-    <TestImport>
+    <xtupleimport>
       <xsl:for-each select="//IndexSets/Index">
         <xtxml.import>
           <import_loadstatus>test</import_loadstatus>
@@ -42,7 +42,7 @@
             <xsl:value-of select="Field/Value[../Name/text()='Invoice Number']"/>
           </import_invoice_number>
           <import_invoice_date>
-            <xsl:value-of select="Field/Value[../Name/text()='Invpooice Date']"/>
+            <xsl:value-of select="Field/Value[../Name/text()='Invoice Date']"/>
           </import_invoice_date>
           <import_invoice_amount>
             <xsl:value-of select="Field/Value[../Name/text()='Invoice Amount']"/>
@@ -75,7 +75,7 @@
             <xsl:value-of select="Field/Value[../Name/text()='Line PO Nbr']"/>
           </import_line_po_nbr>
           <import_adj_inv_itm>
-            <xsl:value-of select="Field/Value[../Name/text()='Adj Inv Item']"/>
+            <xsl:value-of select="Field/Value[../Name/text()='Adj Inv Itm']"/>
           </import_adj_inv_itm>
           <import_adj_inv_prc>
             <xsl:value-of select="Field/Value[../Name/text()='Adj Inv Prc']"/>
@@ -103,6 +103,6 @@
           </import_inv_match_qty>
         </xtxml.import>
       </xsl:for-each>
-    </TestImport>
+    </xtupleimport>
   </xsl:template>
 </xsl:stylesheet>
